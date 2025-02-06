@@ -1,0 +1,1 @@
+My Project is about a Task Manager which actually is a user-friendly and efficient tool designed to help you organize, prioritize, and track your daily tasks with ease. Whether you're managing your personal to-do list or collaborating with a team on projects, our app provides the perfect solution to stay on top of your tasks.
